@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Welcome To EmployeeWage Problem");
+﻿using EmployeeWage;
+
+UC1_EmployeeCheck ran = new UC1_EmployeeCheck();
+ran.Employee();
