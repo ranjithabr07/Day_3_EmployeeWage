@@ -20,3 +20,7 @@ ran5.Employee5();
 
 Uc7_RefractorCode ran6=new Uc7_RefractorCode();
 ran6.Employee6();
+
+Uc_8_MultipulCompanyWage ran7= new Uc_8_MultipulCompanyWage();
+ran7.AddCompany("TATA", 20, 8, 4, 100, 20);
+ran7.CalculateEmpWage("TATA");
