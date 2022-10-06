@@ -17,3 +17,6 @@ ran4.Employee4();
 
 Uc6_TotalWage ran5=new Uc6_TotalWage();
 ran5.Employee5();
+
+Uc7_RefractorCode ran6=new Uc7_RefractorCode();
+ran6.Employee6();
