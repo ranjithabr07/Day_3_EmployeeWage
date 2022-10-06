@@ -8,3 +8,6 @@ ran1.Employee1();
 
 UC_3_PartTimeWage ran2= new UC_3_PartTimeWage();
 ran2.Employee2();
+
+Uc4_SwitchCase ran3=new Uc4_SwitchCase();
+ran3.Employee3();
