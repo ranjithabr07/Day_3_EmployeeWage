@@ -11,3 +11,6 @@ ran2.Employee2();
 
 Uc4_SwitchCase ran3=new Uc4_SwitchCase();
 ran3.Employee3();
+
+Uc5_MonthlyWage ran4=new Uc5_MonthlyWage();
+ran4.Employee4();
