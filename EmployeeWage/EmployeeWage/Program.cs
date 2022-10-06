@@ -14,3 +14,6 @@ ran3.Employee3();
 
 Uc5_MonthlyWage ran4=new Uc5_MonthlyWage();
 ran4.Employee4();
+
+Uc6_TotalWage ran5=new Uc6_TotalWage();
+ran5.Employee5();
